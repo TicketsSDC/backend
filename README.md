@@ -15,4 +15,12 @@ The ticket trader app is built within the Ruby on Rails framework. Listed below 
 4. [Offical Ruby Docs](https://www.ruby-lang.org/en/documentation/)
 
 ###Rails Resources
-1. Coming soon
+1. [Getting started with Rails](http://guides.rubyonrails.org/getting_started.html)
+
+##How to Run
+
+1. Clone repo to your machine `git clone https://github.com/TicketsSDC/backend.git`
+2. Navigate into the repo `cd backend/`
+3. Type command `bin/rails server`
+4. In a web browser navigate to [http://127.0.0.1:3000/](http://127.0.0.1:3000/)
+If you do not see a welcome page go through this [guide](http://guides.rubyonrails.org/getting_started.html) and try again.
